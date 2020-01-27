@@ -3,6 +3,12 @@ Changelog
 
 ## master
 
+## [0.1.0]
+
+- Added tvOS support
+- Added macOS support
+- The `IntrospectionUIView` now named `IntrospectionPlatformView` 
+
 ## [0.0.6]
 
  - Added `.introspectSegmentedControl()`.
